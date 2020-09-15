@@ -15,6 +15,7 @@ git commit -m "MESSAGE COMMIT" #send it to the git folder online (stage the file
 git status
 git log
 git pull #error rejection
+git push origin master
 
 git fetch origin master
 git merge origin master

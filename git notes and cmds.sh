@@ -21,4 +21,4 @@ git fetch origin master
 git merge origin master
 
 git checkout -b NAME #create a new branch
-git checkout master #switch to the main branch; master
+git checkout master #switch to the main branch

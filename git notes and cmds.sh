@@ -22,3 +22,5 @@ git merge origin master
 
 git checkout -b NAME #create a new branch
 git checkout master #switch to the main branch
+
+new line here with updates branch

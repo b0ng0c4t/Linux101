@@ -18,4 +18,9 @@ git pull #error rejection
 git push origin master
 
 git fetch origin master
-git merge origin master
+
+git merge NEW_BRANCH #to add all the changes of the other branch to the master
+git merge -d BRANCH #remove the branch
+
+git checkout -b NAME #create a new branch
+git checkout master #switch to the main branch
